@@ -41,8 +41,3 @@ print("computer won " + str(computer) + " times")
             
 print("You won " + str(userscore) + " times")
 
-# print(goal)
-
-# print("The game is over")
-
-# continue at 46:40
